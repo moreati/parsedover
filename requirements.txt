@@ -1,0 +1,11 @@
+#esrapy not packaged on PyPI
+parsimonious
+parsley
+parson
+peglet
+PPeg
+pyparsing
+pyrser
+regex
+rpython
+simpleparse
