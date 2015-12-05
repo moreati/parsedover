@@ -1,7 +1,7 @@
 #esrapy not packaged on PyPI
 parsimonious
 parsley
-parson
+https://github.com/darius/parson/archive/master.zip
 peglet
 PPeg
 pyparsing
