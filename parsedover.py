@@ -3,14 +3,14 @@ from __future__ import print_function
 import sys
 
 # Excluded or unsuccessful attempts
-# grako     requires seperate code generation step
-# pwpeg
-# speg
-# peglet
-# pyrser
 # glop      mentions OMeta and LPeg, but I can't work out how to call it
+# grako     requires seperate code generation step
+# peglet
 # ply
+# pwpeg
+# pyrser
 # rply
+# speg
 
 s = '(foo(bar()baz))'
 
